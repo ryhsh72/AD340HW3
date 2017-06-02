@@ -5,13 +5,13 @@
     <!-- Settings, should always be in the overflow -->
 
     <item
-        android:id="@+id/cookbook"
-        android:title="Cookbook Info"
+        android:id="@+id/home"
+        android:title="Home"
         app:showAsAction="never" />
 
     <item
-        android:id="@+id/about_app"
-        android:title="About"
+        android:id="@+id/cookbook"
+        android:title="Cookbook Info"
         app:showAsAction="never" />
 
     <item
@@ -23,5 +23,6 @@
         android:id="@+id/map"
         android:title="Map"
         app:showAsAction="never" />
+
 
 </menu>
